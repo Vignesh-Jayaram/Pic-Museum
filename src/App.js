@@ -50,7 +50,9 @@ function App() {
         <h5 className="text-white text-center md:text-right md:mr-2 ">
           Presented by
           <span className="italic font-semibold ml-1">
-            <a href="https://github.com/Vignesh-Jayaram"> @VigneshJayaraman</a>
+            <a href="https://github.com/Vignesh-Jayaram" target="_blank">
+              @VigneshJayaraman
+            </a>
           </span>
         </h5>
       </footer>
