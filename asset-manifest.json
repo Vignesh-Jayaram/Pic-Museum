@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pic-Museum/static/css/main.2b00993d.css",
+    "main.js": "/Pic-Museum/static/js/main.aef040e0.js",
+    "index.html": "/Pic-Museum/index.html",
+    "main.2b00993d.css.map": "/Pic-Museum/static/css/main.2b00993d.css.map",
+    "main.aef040e0.js.map": "/Pic-Museum/static/js/main.aef040e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b00993d.css",
+    "static/js/main.aef040e0.js"
+  ]
+}
